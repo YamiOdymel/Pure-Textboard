@@ -11,3 +11,5 @@ This is a text-only white board with an auto adjust font size function.
 ##What's in it?
 An input.
 
+##What can it do?
+酷炫霸氣屌炸天。
